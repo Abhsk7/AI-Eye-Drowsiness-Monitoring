@@ -7,6 +7,10 @@ The system monitors eye closure and mouth movements
 through a webcam and triggers an audio alert when
 signs of drowsiness are detected.
 
+## 📸 Project Screenshot
+
+![AI Eye Monitoring System](screenshots/eye_monitoring.png)
+
 ## 🚀 Features
 
 - Real-time face detection and tracking
